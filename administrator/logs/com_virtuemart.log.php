@@ -1,0 +1,4 @@
+#
+#<?php die("Forbidden."); ?>
+
+2020-01-27 04:13:15 ERROR vmError: Warning, the Safe Path is <b>not accessible</b> (does not exist or no permission). For safety reasons it is very important to create a folder in a path not accessible by an URL or unguessable name, create also a folder 'invoices' and 'keys' in it to store your sensitive data secure. Our suggested path is for your system '/var/www/html/vmfiles/'. <br>You can also use complex folder name as 'password' for example '/var/www/html/negocios-drop/administrator/components/com_virtuemart/TQkWt7Ladq6v/'. Use this link to the <a href='http://www.devsola.tech/negocios-drop/administrator/index.php?option=com_virtuemart&view=config' >config</a>
